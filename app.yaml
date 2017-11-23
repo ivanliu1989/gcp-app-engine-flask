@@ -1,6 +1,6 @@
 application: gcp-app-engine-flask
 version: 1
-runtime: python35
+runtime: python27
 api_version: 1
 threadsafe: true
 
